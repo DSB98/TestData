@@ -28,5 +28,155 @@
         "price": 111.2,
         "starRating": 4,
         "imageUrl": ""
+    },
+    {
+        "productId": 4,
+        "productName": "Fan",
+        "productCode": "fh-111",
+        "releaseDate": "May 18,2023",
+        "description": "test",
+        "price": 111.2,
+        "starRating": 4,,
+    {
+        "productId": 5,
+        "productName": "iPad",
+        "productCode": "fh-111",
+        "releaseDate": "May 18,2023",
+        "description": "test",
+        "price": 111.2,
+        "starRating": 4,,
+    {
+        "productId": 6,
+        "productName": "Laptop",
+        "productCode": "fh-111",
+        "releaseDate": "May 18,2023",
+        "description": "test",
+        "price": 111.2,
+        "starRating": 4,
+        "imageUrl": ""
+    },
+    {
+        "productId": 7,
+        "productName": "Watch",
+        "productCode": "fh-111",
+        "releaseDate": "May 18,2023",
+        "description": "test",
+        "price": 111.2,
+        "starRating": 4,
+        "imageUrl": ""
+    },
+    {
+        "productId": 8,
+        "productName": "Phone",
+        "productCode": "fh-111",
+        "releaseDate": "May 18,2023",
+        "description": "test",
+        "price": 111.2,
+        "starRating": 4,
+        "imageUrl": ""
+    },
+    {
+        "productId": 9,
+        "productName": "Key",
+        "productCode": "fh-111",
+        "releaseDate": "May 18,2023",
+        "description": "test",
+        "price": 111.2,
+        "starRating": 4,
+        "imageUrl": ""
+    }
+        "imageUrl": ""
+    },
+    {
+        "productId": 10,
+        "productName": "Pen",
+        "productCode": "fh-111",
+        "releaseDate": "May 18,2023",
+        "description": "test",
+        "price": 111.2,
+        "starRating": 4,
+        "imageUrl": ""
+    },
+    {
+        "productId": 11,
+        "productName": "Chocolate",
+        "productCode": "fh-111",
+        "releaseDate": "May 18,2023",
+        "description": "test",
+        "price": 111.2,
+        "starRating": 4,
+        "imageUrl": ""
+    },
+    {
+        "productId": 12,
+        "productName": "Tea",
+        "productCode": "fh-111",
+        "releaseDate": "May 18,2023",
+        "description": "test",
+        "price": 111.2,
+        "starRating": 4,
+        "imageUrl": ""
+    },
+    {
+        "productId": 13,
+        "productName": "Milk",
+        "productCode": "fh-111",
+        "releaseDate": "May 18,2023",
+        "description": "test",
+        "price": 111.2,
+        "starRating": 4,
+        "imageUrl": ""
+    }
+        "imageUrl": ""
+    },
+    {
+        "productId": 14,
+        "productName": "Rose",
+        "productCode": "fh-111",
+        "releaseDate": "May 18,2023",
+        "description": "test",
+        "price": 111.2,
+        "starRating": 4,
+        "imageUrl": ""
+    },
+    {
+        "productId": 15,
+        "productName": "NG",
+        "productCode": "fh-111",
+        "releaseDate": "May 18,2023",
+        "description": "test",
+        "price": 111.2,
+        "starRating": 4,
+        "imageUrl": ""
+    },
+    {
+        "productId": 16,
+        "productName": "Demo",
+        "productCode": "fh-111",
+        "releaseDate": "May 18,2023",
+        "description": "test",
+        "price": 111.2,
+        "starRating": 4,
+        "imageUrl": ""
+    },
+    {
+        "productId": 17,
+        "productName": "New",
+        "productCode": "fh-111",
+        "releaseDate": "May 18,2023",
+        "description": "test",
+        "price": 111.2,
+        "starRating": 4,
+        "imageUrl": ""
+    },
+    {
+        "productId": 18,
+        "productName": "Test",
+        "productCode": "fh-111",
+        "releaseDate": "May 18,2023",
+        "description": "test",
+        "price": 111.2,
+        "starRating": 4,
+        "imageUrl": ""
     }
    ]
