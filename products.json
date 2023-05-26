@@ -36,7 +36,9 @@
         "releaseDate": "May 18,2023",
         "description": "test",
         "price": 111.2,
-        "starRating": 4,,
+        "starRating": 4,
+       "imageUrl": ""
+    },
     {
         "productId": 5,
         "productName": "iPad",
@@ -44,7 +46,9 @@
         "releaseDate": "May 18,2023",
         "description": "test",
         "price": 111.2,
-        "starRating": 4,,
+        "starRating": 4,
+       "imageUrl": ""
+    },
     {
         "productId": 6,
         "productName": "Laptop",
