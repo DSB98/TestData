@@ -1,0 +1,32 @@
+
+   [ {
+        "productId": 1,
+        "productName": "Garden Cart",
+        "productCode": "FH-123",
+        "releaseDate": "May 18,2023",
+        "description": "test",
+        "price": 23.2,
+        "starRating": 3,
+        "imageUrl": ""
+    },
+    {
+        "productId": 2,
+        "productName": "Car",
+        "productCode": "fh-1222",
+        "releaseDate": "May 18,2023",
+        "description": "test",
+        "price": 232.2,
+        "starRating": 4.6,
+        "imageUrl": ""
+    },
+    {
+        "productId": 3,
+        "productName": "Bike",
+        "productCode": "fh-111",
+        "releaseDate": "May 18,2023",
+        "description": "test",
+        "price": 111.2,
+        "starRating": 4,
+        "imageUrl": ""
+    }
+   ]
